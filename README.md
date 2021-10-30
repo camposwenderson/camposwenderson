@@ -23,8 +23,7 @@
   <img align="center" alt="wen-figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="right" alt="wen-gif" height="150" src="https://user-images.githubusercontent.com/49501669/139516072-91876ece-ae63-4e9f-aa90-85a7a8e5738c.gif">
 </div>
-
-  
+ 
   ##
  
 <div> 
