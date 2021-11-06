@@ -4,9 +4,9 @@
 
   ### Olá! eu sou Wenderson campos! 👋
 
--  Faendo faculdade de Ciencia da computação 
+-  Fazendo faculdade de Ciencia da computação 
 -  Estudando Frontend UI/UX
--  Futura desenvolvedora frontend  UI/UX. 
+-  Futuro desenvolvedor frontend  UI/UX. 
 
 
 <div align="center">
