@@ -1,6 +1,6 @@
 <h4 align="center">
 
-![chilling-lofi](https://user-images.githubusercontent.com/49501669/139515700-1422954a-f418-4f7d-80fe-788c980f9eb9.gif)
+![chilling-lofi](https://user-images.githubusercontent.com/49501669/139515700-1422954a-f418-4f7d-80fe-788c980f9eb9.gif) 
 
   ### Olá! eu sou Wenderson campos! 👋
 
